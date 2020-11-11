@@ -1,4 +1,4 @@
-### Hi there, I'm Tabrez Basha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Tabrez Basha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 # I'm a Front-end developer, technology enthusiast, traveller and weekend chef!
 
