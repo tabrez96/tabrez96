@@ -37,9 +37,9 @@
 
 ### GitHub Stats ⚡
 
-<img align="left" alt="Tabrez's GitHub Stats" src="https://github-readme-stats.tab22rez.vercel.app/api/top-langs/?username=tabrez96&show_icons=true&hide_border=true&theme=gotham" />
+<img align="left" alt="Tabrez's GitHub Stats" src="https://github-readme-stats.tab22rez.vercel.app/api/top-langs/?username=tabrez96&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
 
-<img align="left" alt="Tabrez's GitHub Stats" src="https://github-readme-stats.tab22rez.vercel.app/api?username=tabrez96&show_icons=true&hide_border=true&theme=gotham" />
+<img align="left" alt="Tabrez's GitHub Stats" src="https://github-readme-stats.tab22rez.vercel.app/api?username=tabrez96&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
 
 [linkedin]: https://www.linkedin.com/in/tabrez-basha-59b423118
 [twitter]: https://twitter.com/tabrez_basha
