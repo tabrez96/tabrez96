@@ -37,6 +37,8 @@
 
 ### GitHub Stats ⚡
 
+<img align="left" alt="Tabrez's GitHub Stats" src="https://github-readme-stats.tab22rez.vercel.app/api/top-langs/?username=tabrez96&show_icons=true&hide_border=true&theme=gotham" />
+
 <img align="left" alt="Tabrez's GitHub Stats" src="https://github-readme-stats.tab22rez.vercel.app/api?username=tabrez96&show_icons=true&hide_border=true&theme=gotham" />
 
 [linkedin]: https://www.linkedin.com/in/tabrez-basha-59b423118
