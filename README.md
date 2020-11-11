@@ -1,6 +1,8 @@
-### Hi there, I'm Tabrez Basha 👋
+### Hi there, I'm Tabrez Basha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 # I'm a Front-end developer, technology enthusiast, traveller and weekend chef!
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tabrez96.tabrez96)
 
 ### Spotify Playing 🎧
 
@@ -35,7 +37,7 @@
 
 ### GitHub Stats ⚡
 
-<img align="left" alt="Tabrez's GitHub Stats" src="https://github-readme-stats.tab22rez.vercel.app/api?username=tabrez96&show_icons=true&hide_border=true" />
+<img align="left" alt="Tabrez's GitHub Stats" src="https://github-readme-stats.tab22rez.vercel.app/api?username=tabrez96&show_icons=true&hide_border=true&theme=gotham" />
 
 [linkedin]: https://www.linkedin.com/in/tabrez-basha-59b423118
 [twitter]: https://twitter.com/tabrez_basha
