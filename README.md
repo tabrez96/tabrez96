@@ -1,4 +1,4 @@
-### Hi there, Im Tabrez Basha 👋
+### Hi there, I'm Tabrez Basha 👋
 
 # I'm a Front-end developer, technology enthusiast, traveller and weekend chef!
 
