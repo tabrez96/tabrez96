@@ -2,6 +2,8 @@
 
 # I'm a Front-end developer, technology enthusiast, traveller and weekend chef!
 
+<a href="https://app.daily.dev/tabrez96"><img src="https://api.daily.dev/devcards/6e164452ad624eb9b797ba2cb96514d0.png?r=9zj" width="400" alt="Tabrez Basha's Dev Card"/></a>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tabrez96.tabrez96)
 
 ### Spotify Playing 🎧
