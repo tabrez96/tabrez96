@@ -43,6 +43,8 @@
 
 <img align="left" alt="Tabrez's GitHub Stats" src="https://github-readme-stats.tab22rez.vercel.app/api?username=tabrez96&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tabrez96&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
 [linkedin]: https://www.linkedin.com/in/tabrez-basha-59b423118
 [twitter]: https://twitter.com/tabrez_basha
 [stackoverflow]: https://stackoverflow.com/users/8355839/tabrez-basha
