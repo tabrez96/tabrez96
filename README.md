@@ -6,6 +6,11 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tabrez96.tabrez96)
 
+### Status
+
+![status](https://badge.stateful.com/tabrez96/status.svg)
+![status](https://badge.stateful.com/tabrez96/dnd.svg)
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.tab22rez.vercel.app/api/spotify)](https://open.spotify.com/user/0eblwsmj739tqshvlkurhutxd)
