@@ -4,6 +4,8 @@
 
 <a href="https://app.daily.dev/tabrez96"><img src="https://github.com/tabrez96/tabrez96/blob/main/devcard.svg" width="400" alt="Tabrez Basha's Dev Card"/></a>
 
+![Stackoverflow](https://stackoverflow.com/users/flair/8355839.png)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tabrez96.tabrez96)
 
 ### Status
