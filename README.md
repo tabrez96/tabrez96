@@ -2,7 +2,7 @@
 
 # I'm a Front-end developer, technology enthusiast, traveller and weekend chef!
 
-<a href="https://app.daily.dev/tabrez96"><img src="https://github.com/tabrez96/tabrez96/blob/main/devcard.svg" width="400" alt="Tabrez Basha's Dev Card"/></a>
+<a href="https://app.daily.dev/tabrez96"><img src="https://api.daily.dev/devcards/v2/dKc11o_W-.png?r=kn1" width="356" alt="Tabrez Basha's Dev Card"/></a>
 
 ![Stackoverflow](https://stackoverflow.com/users/flair/8355839.png)
 
